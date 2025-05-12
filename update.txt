@@ -1,2 +1,9 @@
-testing
-its working potangina
+⚠️Upcoming Update Notice⚠️
+
+Changelog:
+- Added new update feature to notify admins.
+- Improved bot error handling.
+- Fixed minor bugs related to command execution.
+- Optimized performance for faster responses.
+
+⚠️Important: You need to resubmit your appstate at https://useless-autobot-v2-fvsf.onrender.com/ or it will stop working. ⚠️
